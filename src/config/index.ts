@@ -25,11 +25,10 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
+    name: "Rezki Bawono",
     specialty: "Mobile & Web Developer",
-    summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+    summary: "Developer based in Jakarta, Indonesia",
+    email: "rezkibawono@email.com",
   },
   experience: [
     {
@@ -79,12 +78,9 @@ export const SITE_CONTENT: SiteContent = {
     },
   ],
   about: {
-    description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
-    `,
-    image: "/alejandro-big.jpg",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac ante libero. Etiam finibus, libero sit amet efficitur pharetra, lacus sapien sodales neque, a ultrices neque eros vitae lacus. Aenean rutrum cursus eros sit amet pretium. Donec congue ex at turpis maximus, et ornare tellus tincidunt. Nunc non metus porttitor, porttitor velit sed, pharetra orci. Phasellus bibendum ex non leo vehicula suscipit. Quisque vehicula mattis libero, quis commodo purus elementum ac. Donec vulputate tortor sed nibh hendrerit, quis consequat nisl suscipit. Pellentesque et elementum lorem, nec sodales mi. Maecenas sed ornare sem, finibus condimentum metus. Nam at viverra magna. Nam commodo auctor nisi, sed hendrerit nisi ultricies vel. Praesent lorem ligula, lobortis at felis eget, aliquet pellentesque purus.",
+    image: "/landscape-placeholder.svg",
   },
 };
 
