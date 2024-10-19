@@ -67,19 +67,19 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A music streaming app that emulates Spotify's core features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      image: "/landscape-placeholder.svg",
     },
     {
       name: "Shopp App",
       summary: "An e-commerce platform that replicates Shopify's key features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/landscape-placeholder.svg",
     },
   ],
   about: {
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac ante libero. Etiam finibus, libero sit amet efficitur pharetra, lacus sapien sodales neque, a ultrices neque eros vitae lacus. Aenean rutrum cursus eros sit amet pretium. Donec congue ex at turpis maximus, et ornare tellus tincidunt. Nunc non metus porttitor, porttitor velit sed, pharetra orci. Phasellus bibendum ex non leo vehicula suscipit. Quisque vehicula mattis libero, quis commodo purus elementum ac. Donec vulputate tortor sed nibh hendrerit, quis consequat nisl suscipit. Pellentesque et elementum lorem, nec sodales mi. Maecenas sed ornare sem, finibus condimentum metus. Nam at viverra magna. Nam commodo auctor nisi, sed hendrerit nisi ultricies vel. Praesent lorem ligula, lobortis at felis eget, aliquet pellentesque purus.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac ante libero. Etiam finibus, libero sit amet efficitur pharetra, lacus sapien sodales neque, a ultrices neque eros vitae lacus. Aenean rutrum cursus eros sit amet pretium. Donec congue ex at turpis maximus, et ornare tellus tincidunt. Nunc non metus porttitor, porttitor velit sed, pharetra orci. Phasellus bibendum ex non leo vehicula suscipit.",
     image: "/landscape-placeholder.svg",
   },
 };
